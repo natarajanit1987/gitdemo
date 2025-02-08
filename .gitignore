@@ -1,0 +1,7 @@
+/target/
+.classpath
+.project
+.settings/
+.html
+*.txt
+README.md
